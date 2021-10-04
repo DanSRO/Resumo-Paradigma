@@ -1,0 +1,21 @@
+Um paradigma de programação é uma forma de montar a estrutura e execução de código, que fornece e determina a visão que o programador possui sobre a estrutura e execução do programa.
+Existem vários paradigmas de programação pois existem várias formas de se fazer a mesma coisa. O programador deve escolher o paradigma de acordo com a finalidade que se espera alcançar, sempre tendo em mente que cada paradigma possui suas próprias vantagens e desvantagens.
+Os paradigmas mais conhecidos são o POO (programação orientada a objeto) e o PE (programação estruturada). Vamos ver as principais características de cada um deles:
+
+Programação Estruturada (PE)
+* o código é interpretado linha por linha;
+* não precisa estar em uma ordem específica;
+* oferece 3 tipos de estruturas básicas para navegar pelo código:
+1. sequência - um comando após o outro,
+2. seleção - um comando caso uma condição seja satisfeita,
+3. repetição - um comando, repetidamente, até satisfazer uma condição.
+
+Programação Orientada a Objetos (POO)
+* traz objetos reais para a programação;
+* pode conter dados na forma de campos e códigos (atributos), e na forma de procedimentos (métodos);
+* um procedimento de objeto pode acessar, e geralmente modificar, os campos de dados do objeto com o qual eles estão associados;
+* possui 4 pilares:
+1. abstração - é a transformação de um objeto do mundo real em algo que a máquina é capaz de entender,
+2. encapsulamento - permite esconder informações para deixar as partes do sistema o mais independente possível umas das outras,
+3. herança - permite que uma classe "filha" herde atributos e métodos de uma classe "pai"
+4. polimorfismo - permite que uma classe "filha" que herdou certa característica, possa adaptá-la para si
