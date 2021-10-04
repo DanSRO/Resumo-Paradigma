@@ -1,0 +1,7 @@
+HERANÇA
+
+Capacidade de uma classe herdar as propriedades (atributos e métodos) de outra, aumento do reuso de código e minimização de tempo e custo de desenvolvimento. A herança pode ser simples (herda de apenas um ancestral) ou múltipla (mais de um). Ela é transitiva, ou seja, toda classe, em qualquer nível da hierarquia de herança, pode ser herdada. A transmissão das propriedades herdadas se dá até o último nível.
+
+POLIMORFISMO
+
+Uma vez que uma classe tenha sido herdada, métodos herdados podem ser redefinidos (nova lógica de implementação interna) na classe que a herdou para servir aos interesses dela, aumentando o reuso e se valendo de técnicas para redução de tempo e custo de desenvolvimento, além do incremento do fator segurança (a classe que serviu de base para a herança já funcionava anteriormente)
